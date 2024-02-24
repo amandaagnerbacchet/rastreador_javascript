@@ -1,0 +1,2 @@
+# rastreador_javascript
+ Este programa rastreia a localização do usuário em tempo real, utilizando tecnologias como GPS ou serviços de geolocalização baseados em IP. Ele permite obter as coordenadas geográficas atuais do usuário e armazená-las para posterior análise ou exibição em um mapa interativo. Essa funcionalidade pode ser útil em diversos contextos, como navegação, monitoramento de entregas ou acompanhamento de atividades logísticas.
